@@ -1,0 +1,267 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+   Fri 11/07/2025 23:42:52.55 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Content\[PAK]_CharacterVisuals\2453be84-ac33-e1bc-9e66-3dfcdf853ed7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Content\[PAK]_CharacterVisuals\70187a41-f093-05d5-706d-49eb9815e893.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 2 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 to Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using destination: Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:42:56 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     715	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\meta.lsx100%  
+	    New File  		  872700	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\thumbnail.png 30%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   852.9 k   852.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 11:42:56 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Editor\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 to "Editor\Mods"\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using destination: Editor\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:42:57 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Editor\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Friday, November 7, 2025 11:42:57 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 to Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using destination: Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:42:59 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14816	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\meta.lsx100%  
+	    New File  		  872700	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\mod_publish_logo.png 30%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   867.9 k   867.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           444397000 Bytes/sec.
+   Speed :           25428.600 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:42:59 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 to Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[DEBUG] Using destination: Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Friday, November 7, 2025 11:43:00 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+     Dest : C:\GIT_BG3\MOD_REPOS\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4978	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Content\[PAK]_CharacterVisuals\2453be84-ac33-e1bc-9e66-3dfcdf853ed7.lsf100%  
+	    New File  		    4473	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563\Content\[PAK]_CharacterVisuals\70187a41-f093-05d5-706d-49eb9815e893.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :     9.2 k     9.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             4725500 Bytes/sec.
+   Speed :             270.395 MegaBytes/min.
+   Ended : Friday, November 7, 2025 11:43:00 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\FleshForge_Platinum_DGB_Patch_AkELkA_6e1ce3d6-6b7a-6d8b-015e-863c40f38563 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

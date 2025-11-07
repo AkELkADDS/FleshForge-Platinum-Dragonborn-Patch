@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="6e1ce3d6-6b7a-6d8b-015e-863c40f38563"/>
+            <attribute id="Name" type="LSString" value="FleshForge_Platinum_DGB_Patch_AkELkA"/>
+            <attribute id="UUID" type="LSString" value="dc6a357e-de95-568b-1d23-8efb753daa47"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
